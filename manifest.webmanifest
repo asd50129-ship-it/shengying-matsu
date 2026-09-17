@@ -1,0 +1,9 @@
+{
+  "name":"鶯歌聖鶯宮｜線上請示媽祖",
+  "short_name":"請示媽祖",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f8f4ea",
+  "theme_color":"#7d2020",
+  "lang":"zh-Hant"
+}
